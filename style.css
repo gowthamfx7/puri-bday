@@ -74,7 +74,7 @@ body {
 }
 .left .btn{
     transform: scale(0);
-    animation: scaleCricle 2s 10s forwards ease-in-out;
+    animation: scaleCricle 2s 8s forwards ease-in-out;
 }
 #btn__letter{
     position: relative;
